@@ -1,1 +1,1 @@
-# bso
+git clone <repository_url>
